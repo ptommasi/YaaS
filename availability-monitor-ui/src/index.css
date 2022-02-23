@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.LinksTable {
+  font-size: smaller;
+}
+
+.LinksTable .timeCell {
+  text-align: center;
+}
+
+.SearchesTable {
+  font-size: smaller;
+}
+.SearchesTable .domainCell {
+  text-align: left;
+  padding: 1px 8px;
+}
+
+.SearchesTable .timeCell {
+  padding: 1px 8px;
+}
+
+.ChecksTable {
+  font-size: 80%;
+  /* color: darkgray; */
+}
+
+.AttemptsTable {
+  /* font-size: smaller; */
+}
+
+.App {
+
+}
+
+.green {
+  color: green;
+}
+
+.yellow {
+  color: #FFAE42;
+}
+
+.orange {
+  color: orange;
+}
+
+.red {
+  color: red;
+}

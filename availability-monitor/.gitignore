@@ -1,0 +1,27 @@
+# Maybe there will be logs one day. I have a dream.
+logs
+tmp
+dist
+cache
+
+# API keys and secrets
+.env
+config.json
+
+# Dependency directory
+node_modules
+
+# Editors
+.idea
+.vscode/
+.settings/
+.project
+.metadata
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Ignore built ts files
+dist/**/*
+

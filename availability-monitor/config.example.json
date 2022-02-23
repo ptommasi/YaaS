@@ -1,0 +1,79 @@
+{
+
+  "externalServices": {
+
+    "twitterV1": {
+      "apiKey":      "apiKey",
+      "apiSecret":   "apiSecret",
+      "accessToken": "accessToken",
+      "tokenSecret": "tokenSecret"
+    },
+
+    "twitterV2": {
+      "bearerToken": "bearerToken"
+    },
+
+    "2captcha": {
+      "token": "token"
+    },
+
+    "naiveSolver": {
+      "address": "http://your_address:4184"
+    }
+
+  },
+
+  "proxies": [{
+    "id": "hogwarts",
+    "host": "hogwarts.disneylan.home",
+    "port": 5128,
+    "default": true
+  }],
+
+  "chromeInstances": [
+    { 
+      "id": "in-memory",
+      "type": "inMemory",
+      "headless": false,
+      "userDataDir": "/Users/pier/Documents/GoogleChromeInMemory",
+      "proxyId": "hogwarts",
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3312.0 Safari/537.36",
+      "plugins": [ "stealth", "resource-blocker-high"]
+    },
+    { "id": "pier-purchase",     "type": "real", "port": 9222, "plugins": [ "resource-blocker-low" ]            },
+    { "id": "cloudflare-bypass", "type": "real", "port": 9223, "plugins": [ "stealth", "resource-blocker-low" ] }
+  ],
+
+  "watchers": {
+    "currysWatcher": { 
+      "chromeInstanceID": "in-memory"
+    },
+    "partAlert": {
+      "chromeInstanceID": "cloudflare-bypass"
+    },
+    "amazonSearch": {
+      "chromeInstanceID": "in-memory",
+      "domains":  [ "it", "co.uk", "fr", "es", "de" ],
+      "searches": [ "3060+Ti", "3070", "3080" ]
+    },
+    "amazonProductsInBrowser": {
+      "chromeInstanceID": "in-memory",
+      "productsFile": "data/watchers/amazon-products-in-browser.json"
+    },
+    "amazonProductsOnRest": {
+      "productsFile": "data/watchers/amazon-products-on-rest.json",
+      "proxied": true,
+      "cacheSessions": true
+    },
+    "amazonProductsRoundRobinOnRest": {
+      "productsFile": "data/watchers/amazon-products-round-robin-on-rest.json",
+      "proxied": true,
+      "cacheSessions": true
+    }
+  },
+
+  "buyers": [
+    { "chromeInstanceID": "pier-purchase", "checkType": "checkDirectAndOthersConcurrently" }
+  ]
+
+}

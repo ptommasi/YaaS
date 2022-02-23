@@ -1,0 +1,80 @@
+#####################################################
+# 	Ignore Virtual Environment
+#####################################################
+
+env
+venv
+
+
+#####################################################
+# 	Python git ignore stuff							#
+#####################################################
+
+.pydevproject
+__pycache__
+
+
+#####################################################
+# 	Java git ignore stuff							#
+#####################################################
+
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+# *.jar
+# *.war
+# *.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+
+#####################################################
+# 	Maven git ignore								#
+#####################################################
+
+target/
+**/target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+
+#####################################################
+# 	Eclipse git ignore								#
+#####################################################
+
+.settings/
+.project
+.classpath
+logs/
+bin/
+
+
+#####################################################
+# 	Mac OS ignore stuff								#
+#####################################################
+
+.DS_Store
+
+#####################################################
+# 	Visual Studio Code git ignore
+#####################################################
+
+.vscode/
+
+#####################################################
+# 	IntelliJ IDEA git ignore
+#####################################################
+
+.idea/
+area_insight_service.iml
+/.apt_generated/

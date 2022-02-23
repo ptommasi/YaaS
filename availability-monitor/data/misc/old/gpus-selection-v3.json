@@ -1,0 +1,959 @@
+[
+	{
+		"title": "Zotac Gaming GeForce RTX 3060 Ti Twin Edge, ZT-A30610E-10M",
+		"model": "3060Ti",
+		"link": "https://www.amazon.fr/_itm/dp/B08P34VCVN",
+		"prices": [
+			{
+				"price": 381.14,
+				"at": "2021-03-10"
+			},
+			{
+				"price": 541.22,
+				"at": "2021-02-11"
+			},
+			{
+				"price": 541.22,
+				"at": "2021-01-27"
+			}
+		],
+		"buyPrice": 450,
+		"skip": true
+	},
+	{
+		"title": "Gigabyte AORUS GeForce RTX 3060 Ti MASTER 8GB Scheda Grafica",
+		"model": "3060Ti",
+		"link": "https://www.amazon.it/_itm/dp/B08NW5CGXT",
+		"prices": [
+			{
+				"price": 411.57,
+				"at": "2021-03-18"
+			},
+			{
+				"price": 411.57,
+				"at": "2021-03-16"
+			},
+			{
+				"price": 520.35,
+				"at": "2021-03-01"
+			},
+			{
+				"price": 500.34,
+				"at": "2021-01-31"
+			},
+			{
+				"price": 500.34,
+				"at": "2021-01-31"
+			}
+		],
+		"buyPrice": 450,
+		"skip": true
+	},
+	{
+		"title": "Gigabyte RTX 3070 Eagle OC - Tarjeta gráfica GeForce 8 GB",
+		"model": "3070",
+		"link": "https://www.amazon.es/_itm/dp/B08KHL2J5X",
+		"prices": [
+			{
+				"price": 471.42,
+				"at": "2021-03-19"
+			},
+			{
+				"price": 787.69,
+				"at": "2021-03-02"
+			},
+			{
+				"price": 558.55,
+				"at": "2021-02-25"
+			},
+			{
+				"price": 717.29,
+				"at": "2021-02-04"
+			},
+			{
+				"price": 717.29,
+				"at": "2021-01-30"
+			},
+			{
+				"price": 717.29,
+				"at": "2021-01-23"
+			},
+			{
+				"price": 717.29,
+				"at": "2021-01-22"
+			},
+			{
+				"price": 693.7,
+				"at": "2021-01-22"
+			},
+			{
+				"price": 693.7,
+				"at": "2021-01-22"
+			},
+			{
+				"price": 693.7,
+				"at": "2021-01-21"
+			},
+			{
+				"price": 717.29,
+				"at": "2021-01-21"
+			},
+			{
+				"price": 717.29,
+				"at": "2021-01-20"
+			},
+			{
+				"price": 717.29,
+				"at": "2021-01-19"
+			},
+			{
+				"price": 693.7,
+				"at": "2021-01-18"
+			},
+			{
+				"price": 717.29,
+				"at": "2021-01-18"
+			}
+		],
+		"buyPrice": 500,
+		"skip": true
+	},
+	{
+		"title": "RTX 3070 VENTUS 3X OC",
+		"model": "3070",
+		"link": "https://www.amazon.co.uk/_itm/dp/B08L6PCZTR",
+		"prices": [
+			{
+				"price": "471.86",
+				"at": "2021-02-24"
+			},
+			{
+				"price": "655.50",
+				"at": "2021-02-03"
+			},
+			{
+				"price": "655.50",
+				"at": "2021-01-30"
+			},
+			{
+				"price": "655.50",
+				"at": "2021-01-30"
+			},
+			{
+				"price": "655.50",
+				"at": "2021-01-21"
+			}
+		],
+		"buyPrice": 540,
+		"skip": true
+	},
+	{
+		"title": "Gigabyte GeForce RTX 3070 EAGLE OC - Scheda grafica da 8 GB",
+		"model": "3070",
+		"link": "https://www.amazon.it/_itm/dp/B08KHL2J5X",
+		"prices": [
+			{
+				"price": 489.9,
+				"at": "2021-02-08"
+			},
+			{
+				"price": 723.22,
+				"at": "2021-02-06"
+			},
+			{
+				"price": 723.22,
+				"at": "2021-02-04"
+			},
+			{
+				"price": 723.22,
+				"at": "2021-01-31"
+			},
+			{
+				"price": 542.28,
+				"at": "2021-01-26"
+			},
+			{
+				"price": 693.7,
+				"at": "2021-01-22"
+			},
+			{
+				"price": 693.7,
+				"at": "2021-01-21"
+			},
+			{
+				"price": 573.09,
+				"at": "2021-01-19"
+			}
+		],
+		"buyPrice": 630,
+		"skip": false
+	},
+	{
+		"title": "Gigabyte GeForce RTX 3070 Eagle OC 8 GB Grafikkarte",
+		"model": "3070",
+		"link": "https://www.amazon.de/_itm/dp/B08KHL2J5X",
+		"prices": [
+			{
+				"price": 542.28,
+				"at": "2021-02-26"
+			},
+			{
+				"price": 567.37,
+				"at": "2021-02-04"
+			},
+			{
+				"price": 567.37,
+				"at": "2021-02-02"
+			},
+			{
+				"price": 712.22,
+				"at": "2021-01-23"
+			},
+			{
+				"price": 693.7,
+				"at": "2021-01-22"
+			},
+			{
+				"price": 712.22,
+				"at": "2021-01-21"
+			},
+			{
+				"price": 712.22,
+				"at": "2021-01-21"
+			},
+			{
+				"price": 693.7,
+				"at": "2021-01-21"
+			},
+			{
+				"price": 712.22,
+				"at": "2021-01-21"
+			},
+			{
+				"price": 712.22,
+				"at": "2021-01-21"
+			},
+			{
+				"price": 712.22,
+				"at": "2021-01-20"
+			},
+			{
+				"price": 712.22,
+				"at": "2021-01-20"
+			},
+			{
+				"price": 712.22,
+				"at": "2021-01-20"
+			},
+			{
+				"price": 712.22,
+				"at": "2021-01-20"
+			},
+			{
+				"price": 712.22,
+				"at": "2021-01-20"
+			},
+			{
+				"price": 712.22,
+				"at": "2021-01-20"
+			},
+			{
+				"price": 712.22,
+				"at": "2021-01-19"
+			},
+			{
+				"price": 573.09,
+				"at": "2021-01-19"
+			},
+			{
+				"price": 693.7,
+				"at": "2021-01-18"
+			},
+			{
+				"price": 712.22,
+				"at": "2021-01-18"
+			}
+		],
+		"buyPrice": 630,
+		"skip": false
+	},
+	{
+		"title": "GeForce RTX 3070 Ventus 2X OC",
+		"model": "3070",
+		"link": "https://www.amazon.de/_itm/dp/B08LNQTSCT",
+		"prices": [
+			{
+				"price": 548.49,
+				"at": "2021-02-25"
+			},
+			{
+				"price": 583.3,
+				"at": "2021-02-09"
+			},
+			{
+				"price": 716.77,
+				"at": "2021-01-23"
+			},
+			{
+				"price": 537.87,
+				"at": "2021-01-22"
+			},
+			{
+				"price": 716.77,
+				"at": "2021-01-22"
+			},
+			{
+				"price": 716.77,
+				"at": "2021-01-22"
+			},
+			{
+				"price": 707.59,
+				"at": "2021-01-21"
+			}
+		],
+		"buyPrice": 550,
+		"skip": true
+	},
+	{
+		"title": "Palit GeForce RTX 3070 GamingPro 8GB GDDR6 Ray-Tracing Graphics Card, 5888 Core, 1500MHz GPU, 1725 B",
+		"model": "3070",
+		"link": "https://www.amazon.co.uk/_itm/dp/B08LDS72P2",
+		"prices": [
+			{
+				"price": "560.91",
+				"at": "2021-03-12"
+			},
+			{
+				"price": "642.85",
+				"at": "2021-03-10"
+			},
+			{
+				"price": "642.85",
+				"at": "2021-03-08"
+			},
+			{
+				"price": "642.85",
+				"at": "2021-02-12"
+			},
+			{
+				"price": "506.94",
+				"at": "2021-02-02"
+			},
+			{
+				"price": "632.50",
+				"at": "2021-01-28"
+			}
+		],
+		"buyPrice": 617.001,
+		"skip": true
+	},
+	{
+		"title": "MSI RTX 3070 Gaming X Trio",
+		"model": "3070",
+		"link": "https://www.amazon.fr/_itm/dp/B08LNPPCWJ",
+		"prices": [
+			{
+				"price": 575.27,
+				"at": "2021-03-13"
+			},
+			{
+				"price": 636.5,
+				"at": "2021-03-10"
+			},
+			{
+				"price": 853.49,
+				"at": "2021-02-23"
+			},
+			{
+				"price": 853.49,
+				"at": "2021-02-22"
+			},
+			{
+				"price": 600.13,
+				"at": "2021-01-28"
+			}
+		],
+		"buyPrice": 580,
+		"skip": true
+	},
+	{
+		"title": "Tarjeta gráfica ZOTAC Gaming GEFORCE RTX 3070 Twin Edge OC 8GB GDDR6",
+		"model": "3070",
+		"link": "https://www.amazon.es/_itm/dp/B08LBVNKT1",
+		"prices": [
+			{
+				"price": 589.99,
+				"at": "2021-02-09"
+			},
+			{
+				"price": 589.99,
+				"at": "2021-02-02"
+			},
+			{
+				"price": 589.99,
+				"at": "2021-01-25"
+			},
+			{
+				"price": 589.99,
+				"at": "2021-01-25"
+			},
+			{
+				"price": 589.99,
+				"at": "2021-01-20"
+			},
+			{
+				"price": 589.99,
+				"at": "2021-01-18"
+			},
+			{
+				"price": 589.99,
+				"at": "2021-01-18"
+			},
+			{
+				"price": 589.99,
+				"at": "2021-01-17"
+			}
+		],
+		"buyPrice": 550,
+		"skip": true
+	},
+	{
+		"title": "Gigabyte GeForce RTX 3070 EAGLE OC 8GB Graphics Card",
+		"model": "3070",
+		"link": "https://www.amazon.co.uk/_itm/dp/B08KHL2J5X",
+		"prices": [
+			{
+				"price": "595.54",
+				"at": "2021-03-06"
+			},
+			{
+				"price": "612.94",
+				"at": "2021-02-22"
+			},
+			{
+				"price": "612.94",
+				"at": "2021-02-22"
+			},
+			{
+				"price": "518.86",
+				"at": "2021-02-02"
+			}
+		],
+		"buyPrice": 655.094,
+		"skip": true
+	},
+	{
+		"title": "ZOTAC GAMING GeForce RTX 3070 Twin Edge OC",
+		"model": "3070",
+		"link": "https://www.amazon.it/_itm/dp/B08LBVNKT1",
+		"prices": [
+			{
+				"price": 599.99,
+				"at": "2021-01-25"
+			},
+			{
+				"price": 599.99,
+				"at": "2021-01-22"
+			},
+			{
+				"price": 599.99,
+				"at": "2021-01-18"
+			}
+		],
+		"buyPrice": 600,
+		"skip": true
+	},
+	{
+		"title": "GIGABYTE GeForce RTX 3070 Gaming OC 8G Grafikkarte, 3X Windforce Lüfter, 8GB 256-Bit GDDR6, GV-N3070",
+		"model": "3070",
+		"link": "https://www.amazon.de/_itm/dp/B08KY266MG",
+		"prices": [
+			{
+				"price": 601.53,
+				"at": "2021-01-22"
+			},
+			{
+				"price": 601.53,
+				"at": "2021-01-22"
+			},
+			{
+				"price": 584.64,
+				"at": "2021-01-19"
+			}
+		],
+		"buyPrice": 661.683,
+		"skip": true
+	},
+	{
+		"title": "ASUS DUAL NVIDIA GeForce RTX 3070 OC Edition Gaming Grafikkarte (PCIe 4.0, 8 GB GDDR6 Speicher, HDMI",
+		"model": "3070",
+		"link": "https://www.amazon.de/_itm/dp/B08L8LG4M3",
+		"prices": [
+			{
+				"price": 611.82,
+				"at": "2021-03-04"
+			},
+			{
+				"price": 613.75,
+				"at": "2021-03-03"
+			},
+			{
+				"price": 606.91,
+				"at": "2021-02-04"
+			},
+			{
+				"price": 612.93,
+				"at": "2021-02-04"
+			},
+			{
+				"price": 612.93,
+				"at": "2021-02-04"
+			},
+			{
+				"price": 612.93,
+				"at": "2021-02-04"
+			},
+			{
+				"price": 609.23,
+				"at": "2021-01-31"
+			},
+			{
+				"price": 609.23,
+				"at": "2021-01-31"
+			},
+			{
+				"price": 609.23,
+				"at": "2021-01-31"
+			},
+			{
+				"price": 606.87,
+				"at": "2021-01-31"
+			},
+			{
+				"price": 607.67,
+				"at": "2021-01-30"
+			},
+			{
+				"price": 607.67,
+				"at": "2021-01-30"
+			},
+			{
+				"price": 608.12,
+				"at": "2021-01-29"
+			},
+			{
+				"price": 608.12,
+				"at": "2021-01-29"
+			}
+		],
+		"buyPrice": 620,
+		"skip": true
+	},
+	{
+		"title": "Gigabyte GeForce RTX 3070 GAMING OC 8GB Graphics Card",
+		"model": "3070",
+		"link": "https://www.amazon.co.uk/_itm/dp/B08KHL21CV",
+		"prices": [
+			{
+				"price": "615.19",
+				"at": "2021-03-18"
+			},
+			{
+				"price": "762.50",
+				"at": "2021-03-15"
+			},
+			{
+				"price": "610.53",
+				"at": "2021-03-02"
+			},
+			{
+				"price": "638.02",
+				"at": "2021-02-25"
+			},
+			{
+				"price": "491.51",
+				"at": "2021-02-07"
+			},
+			{
+				"price": "493.34",
+				"at": "2021-02-04"
+			},
+			{
+				"price": "744.75",
+				"at": "2021-01-29"
+			},
+			{
+				"price": "744.75",
+				"at": "2021-01-29"
+			},
+			{
+				"price": "491.51",
+				"at": "2021-01-29"
+			},
+			{
+				"price": "744.75",
+				"at": "2021-01-28"
+			},
+			{
+				"price": "744.75",
+				"at": "2021-01-28"
+			},
+			{
+				"price": "744.75",
+				"at": "2021-01-24"
+			},
+			{
+				"price": "744.75",
+				"at": "2021-01-23"
+			},
+			{
+				"price": "744.75",
+				"at": "2021-01-23"
+			},
+			{
+				"price": "744.75",
+				"at": "2021-01-23"
+			},
+			{
+				"price": "744.75",
+				"at": "2021-01-22"
+			},
+			{
+				"price": "744.75",
+				"at": "2021-01-22"
+			},
+			{
+				"price": "744.75",
+				"at": "2021-01-21"
+			},
+			{
+				"price": "744.75",
+				"at": "2021-01-19"
+			},
+			{
+				"price": "744.75",
+				"at": "2021-01-18"
+			},
+			{
+				"price": "744.75",
+				"at": "2021-01-18"
+			}
+		],
+		"buyPrice": 750,
+		"skip": true
+	},
+	{
+		"title": "ZOTAC GAMING GeForce RTX 3070 Twin Edge OC",
+		"model": "3070",
+		"link": "https://www.amazon.de/_itm/dp/B08LBVNKT1",
+		"prices": [
+			{
+				"price": 619.9,
+				"at": "2021-02-13"
+			},
+			{
+				"price": 619.9,
+				"at": "2021-02-09"
+			},
+			{
+				"price": 619.9,
+				"at": "2021-01-25"
+			},
+			{
+				"price": 619.9,
+				"at": "2021-01-25"
+			}
+		],
+		"buyPrice": 620,
+		"skip": true
+	},
+	{
+		"title": "Gigabyte GeForce RTX 3070 VISION OC 8GB Graphics Card",
+		"model": "3070",
+		"link": "https://www.amazon.co.uk/_itm/dp/B08LNWPYRS",
+		"prices": [
+			{
+				"price": "624.13",
+				"at": "2021-03-11"
+			},
+			{
+				"price": "612.05",
+				"at": "2021-03-04"
+			},
+			{
+				"price": "504.84",
+				"at": "2021-01-29"
+			},
+			{
+				"price": "531.98",
+				"at": "2021-01-28"
+			},
+			{
+				"price": "729.86",
+				"at": "2021-01-20"
+			}
+		],
+		"buyPrice": 630,
+		"skip": true
+	},
+	{
+		"title": "GIGABYTE GeForce RTX 3070 Vision OC 8G Grafikkarte, 3X WINDFORCE Lüfter, 8GB 256-Bit GDDR6, GV-N3070",
+		"model": "3070",
+		"link": "https://www.amazon.de/_itm/dp/B08M13DXSZ",
+		"prices": [
+			{
+				"price": 628.27,
+				"at": "2021-02-03"
+			},
+			{
+				"price": 622.06,
+				"at": "2021-01-31"
+			},
+			{
+				"price": 622.06,
+				"at": "2021-01-31"
+			},
+			{
+				"price": 619.35,
+				"at": "2021-01-24"
+			},
+			{
+				"price": 618.65,
+				"at": "2021-01-22"
+			},
+			{
+				"price": 618.65,
+				"at": "2021-01-22"
+			}
+		],
+		"buyPrice": 691.097,
+		"skip": true
+	},
+	{
+		"title": "ASUS DUAL NVIDIA GeForce RTX 3070 OC Edition Gaming Graphics Card (PCIe 4.0, 8GB GDDR6 memory, HDMI ",
+		"model": "3070",
+		"link": "https://www.amazon.co.uk/_itm/dp/B08L8LG4M3",
+		"prices": [
+			{
+				"price": "635.56",
+				"at": "2021-02-04"
+			},
+			{
+				"price": "635.56",
+				"at": "2021-02-04"
+			},
+			{
+				"price": "634.29",
+				"at": "2021-01-31"
+			},
+			{
+				"price": "633.72",
+				"at": "2021-01-31"
+			},
+			{
+				"price": "631.11",
+				"at": "2021-01-31"
+			},
+			{
+				"price": "630.33",
+				"at": "2021-01-30"
+			},
+			{
+				"price": "631.80",
+				"at": "2021-01-29"
+			}
+		],
+		"buyPrice": 699.116,
+		"skip": true
+	},
+	{
+		"title": "ZOTAC Gaming GEFORCE RTX 3070 Twin Edge OC White Edition 8GB GDDR6",
+		"model": "3070",
+		"link": "https://www.amazon.de/_itm/dp/B08P7ZKQPP",
+		"prices": [
+			{
+				"price": 640,
+				"at": "2021-03-02"
+			},
+			{
+				"price": 943.49,
+				"at": "2021-02-25"
+			},
+			{
+				"price": 943.49,
+				"at": "2021-02-24"
+			},
+			{
+				"price": 943.49,
+				"at": "2021-02-24"
+			},
+			{
+				"price": 640,
+				"at": "2021-02-19"
+			}
+		],
+		"buyPrice": 640,
+		"skip": true
+	},
+	{
+		"title": "PNY Carte Graphique GeForce RTX™ 3070 8GB XLR8 Gaming Revel Epic-X RGB™ Triple Fan",
+		"model": "3070",
+		"link": "https://www.amazon.fr/_itm/dp/B08HBJB7YD",
+		"prices": [
+			{
+				"price": 642.67,
+				"at": "2021-03-03"
+			},
+			{
+				"price": 642.67,
+				"at": "2021-03-03"
+			},
+			{
+				"price": 642.67,
+				"at": "2021-03-03"
+			},
+			{
+				"price": 642.67,
+				"at": "2021-03-03"
+			},
+			{
+				"price": 620.71,
+				"at": "2021-02-23"
+			},
+			{
+				"price": 630.54,
+				"at": "2021-02-03"
+			},
+			{
+				"price": 630.54,
+				"at": "2021-01-22"
+			},
+			{
+				"price": 630.54,
+				"at": "2021-01-21"
+			},
+			{
+				"price": 630.54,
+				"at": "2021-01-21"
+			},
+			{
+				"price": 630.54,
+				"at": "2021-01-17"
+			}
+		],
+		"buyPrice": 706.937,
+		"skip": true
+	},
+	{
+		"title": "ASUS Dual NVIDIA GeForce RTX 3070 OC Edition Gaming Graphics Card (PCIe 4.0, 8GB GDDR6 memory, HDMI ",
+		"model": "3070",
+		"link": "https://www.amazon.co.uk/_itm/dp/B08KHFZN9P",
+		"prices": [
+			{
+				"price": "644.00",
+				"at": "2021-02-12"
+			},
+			{
+				"price": "644.00",
+				"at": "2021-02-05"
+			},
+			{
+				"price": "644.00",
+				"at": "2021-01-29"
+			}
+		],
+		"buyPrice": 708.4000000000001,
+		"skip": true
+	},
+	{
+		"title": "PNY Tarjeta Gráfica GeForce RTX™ 3070 8GB XLR8 Gaming Revel Epic-X RGB™ Triple Fan",
+		"model": "3070",
+		"link": "https://www.amazon.es/_itm/dp/B08HBJB7YD",
+		"prices": [
+			{
+				"price": 649.99,
+				"at": "2021-03-03"
+			},
+			{
+				"price": 649.99,
+				"at": "2021-01-24"
+			},
+			{
+				"price": 649.99,
+				"at": "2021-01-24"
+			},
+			{
+				"price": 649.99,
+				"at": "2021-01-22"
+			},
+			{
+				"price": 649.99,
+				"at": "2021-01-22"
+			},
+			{
+				"price": 649.99,
+				"at": "2021-01-21"
+			},
+			{
+				"price": 649.99,
+				"at": "2021-01-19"
+			},
+			{
+				"price": 649.99,
+				"at": "2021-01-18"
+			},
+			{
+				"price": 649.99,
+				"at": "2021-01-17"
+			},
+			{
+				"price": 649.99,
+				"at": "2021-01-17"
+			}
+		],
+		"buyPrice": 714.989,
+		"skip": true
+	},
+	{
+		"title": "ZOTAC GeForce RTX 3080 AMP Holo",
+		"model": "3080",
+		"link": "https://www.amazon.de/_itm/dp/B08KGVL9JQ",
+		"prices": [
+			{
+				"price": 699.87,
+				"at": "2021-01-27"
+			},
+			{
+				"price": 742.29,
+				"at": "2021-01-25"
+			},
+			{
+				"price": 742.29,
+				"at": "2021-01-25"
+			}
+		],
+		"buyPrice": 750,
+		"skip": true
+	},
+	{
+		"title": "Gigabyte GeForce RTX 3080 Vision OC 10GB Tarjeta gráfica",
+		"model": "3080",
+		"link": "https://www.amazon.es/_itm/dp/B08KH7RL89",
+		"prices": [
+			{
+				"price": 734.31,
+				"at": "2021-01-22"
+			},
+			{
+				"price": 734.31,
+				"at": "2021-01-22"
+			},
+			{
+				"price": 734.31,
+				"at": "2021-01-22"
+			}
+		],
+		"buyPrice": 750,
+		"skip": true
+	}
+]

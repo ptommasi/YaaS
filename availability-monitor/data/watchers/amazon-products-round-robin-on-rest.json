@@ -1,0 +1,21 @@
+{
+
+  "oneTLDs": [ "es" ],
+  "TLDs": [ "co.uk", "it", "fr", "de", "es" ],
+
+  "products": [
+    { "asin": "B08PDP837W", "title": "EVGA GeForce RTX 3060 Ti XC Gaming"                             },
+    { "asin": "B08PDMYN2D", "title": "EVGA GeForce RTX 3060 Ti FTW3 Ultra Gaming"                     },
+    { "asin": "B08XQWR62V", "title": "EVGA GeForce RTX 3060 XC Gaming"                                },
+    { "asin": "B08L3Q41SM", "title": "EVGA GeForce RTX 3070 XC3 Ultra Gaming"                         },
+    { "asin": "B08HJ9XFNM", "title": "EVGA GeForce RTX 3080 XC3 ULTRA GAMING"                         }
+  ],
+
+  "userAgents": [
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3312.0 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4492.0 Safari/537.3",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36"
+  ]
+
+}

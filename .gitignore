@@ -1,0 +1,4 @@
+# Note: each component has its own .gitignore
+
+.DS_Store
+

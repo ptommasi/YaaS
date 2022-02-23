@@ -1,0 +1,102 @@
+{
+
+  "externalServices": {
+
+    "twitterV1": {
+      "apiKey":      "apiKey",
+      "apiSecret":   "apiSecret",
+      "accessToken": "accessToken",
+      "tokenSecret": "tokenSecret"
+    },
+
+    "twitterV2": {
+      "bearerToken": "bearerToken"
+    },
+
+    "2captcha": {
+      "token": "token"
+    },
+
+    "naiveSolver": {
+      "address": "http://192.x.x.x:4184"
+    }
+
+  },
+
+  "proxies": [
+    {
+      "id": "hogwarts",
+      "host": "192.x.x.x",
+      "port": 5,
+      "default": true
+    },
+    {
+      "id": "carletto",
+      "host": "192.x.x.x",
+      "port": 3
+    }
+  ],
+
+  "chromeInstances": [
+    { 
+      "id": "in-memory",
+      "type": "inMemory",
+      "headless": false,
+      "userDataDir": "/Users/pier/Documents/GoogleChromeInMemory",
+      "proxyId": "hogwarts",
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3312.0 Safari/537.36",
+      "plugins": [ "stealth", "resource-blocker-high"]
+    },
+    { "id": "pier-purchaser",    "type": "real", "port": 9222, "plugins": [ "resource-blocker-loww" ]            },
+    { "id": "cloudflare-bypass", "type": "real", "port": 9223, "plugins": [ "stealth", "resource-blocker-low" ] },
+    { "id": "pier-2-purchaser",    "type": "real", "port": 9224, "plugins": [ "resource-blocker-loww" ]            },
+    { 
+      "id": "pier-2-purchaser-mem",
+      "type": "inMemory",
+      "headless": false,
+      "userDataDir": "/Users/pier/Documents/GoogleChromeInMemoryPier2",
+      "proxyId": "carletto",
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3312.0 Safari/537.36",
+      "plugins": [ "resource-blocker-low"]
+    }
+  ],
+
+  "watchers": {
+    "currysWatcher": { "chromeInstanceID": "in-memory" },
+    "partAlert": { "chromeInstanceID": "cloudflare-bypass" },
+    "amazonSearch": {
+      "chromeInstanceID": "in-memory",
+      "domains":  [ "it", "co.uk", "fr", "es", "de" ],
+      "searches": [ "3060+Ti", "3070", "3080" ]
+    },
+    "amazonProductsInBrowser": {
+      "chromeInstanceID": "in-memory",
+      "productsFile": "data/watchers/amazon-products-in-browser.json"
+    },
+    "amazonProductsOnRest": {
+      "productsFile": "data/watchers/amazon-products-on-rest.json",
+      "proxied": true,
+      "cacheSessions": true
+    },
+    "amazonProductsRoundRobinOnRest": {
+      "productsFile": "data/watchers/amazon-products-round-robin-on-rest.json",
+      "proxied": true,
+      "cacheSessions": true
+    }
+  },
+
+  "not buyers": [
+    { "chromeInstanceID": "pier-purchaser", "checkType": "checkDirectAndOthersConcurrently" },
+    { "chromeInstanceID": "pier-purchaser",     "checkType": "checkDirectOnly"              }
+  ],
+  "buyers": [
+    { "chromeInstanceID": "pier-purchaser", "checkType": "checkDirectAndOthersTogether" },
+    { "chromeInstanceID": "pier-2-purchaser", "checkType": "checkDirectAndOthersTogether" }
+  ],
+
+  "attemptDuration": {
+    "refreshes": 3,
+    "purchase": 10
+  }
+
+}
